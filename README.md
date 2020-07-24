@@ -57,7 +57,7 @@ $ json-server --watch db.json -p 3001 -d 2000
 ```
 
 ```bash
-# On another command prompt, change directory to repo
+# On another command prompt, change directory to repository (the folder where you can see the different folders and files like package.json
 $ cd <directory url>
 ```
 
