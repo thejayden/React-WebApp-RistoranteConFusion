@@ -63,7 +63,6 @@ $ cd <directory url>
 
 _Run using [yarn](https://yarnpkg.com/en/docs/install)_
 ```bash
-#run using [yarn](https://yarnpkg.com/en/docs/install)
 $ yarn start
 ```
 _or run using npm_
