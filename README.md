@@ -86,4 +86,4 @@ README template edited from [https://github.com/amitmerchant1990/electron-markdo
 
 ---
 
-> The original rpository for my progress thorughout the course can be found [here](https://github.com/thejayden/react-web-dev) &nbsp;&middot;&nbsp;
+> The original repository for my progress thorughout the course can be found [here](https://github.com/thejayden/react-web-dev) &nbsp;&middot;&nbsp;
