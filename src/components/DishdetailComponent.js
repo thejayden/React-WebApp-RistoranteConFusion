@@ -143,7 +143,7 @@ function RenderComments({ comment, postComment, dishId }) {
                         );
                     })}
                 </Stagger>
-                <commentForm dishId={dishId} postComment={postComment} />
+                <CommentForm dishId={dishId} postComment={postComment} />
             </div>
         )
     }
