@@ -12,31 +12,21 @@
 </p>
 
 <p align="center">
+  <a href="#Features">Features</a> •
   <a href="#Setup">Setup</a> •
-  <a href="#Takeaways">Takeaways</a> 
+  <a href="#Takeaways">Takeaways</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://github.com/thejayden/react-app-ristorante-con-fusion/blob/master/demo.gif)
+  
+## Features
 
-## Takeaways
-
-* LivePreview - Make changes, See changes
+* Single page application view using react router
   - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Feedback form input validation 
+* Fake live server using JSON-Server with API fetching
+* Commenting and viewing live comments
+* React animations with stagger and fade
 
 ## Setup
 
@@ -71,12 +61,30 @@ _or run using npm_
 $ npm start
 ```
 
+## Takeaways
+
+* Understanding the fundamental structure and purpose of implementing react.js
+  - React solely focuses on the user interface design. How we want to implement other aspects such as servers, databases is independent of react. (technology stack agnostic)
+  - Components(presentational, container), elements, state, props, render
+* Familiarise with JSX and ES6 syntax, such as the arrow function. 
+  - Lists and Keys: iterating over items in array and converting into a list uing the map function
+* Implementing various node modules to 
+* Understanding uncontrolled and controlled forms
+  - Changing from controlled to uncontrolled forms which allows for reference to form values instead of having an event handler for each state update (lesser interaction with react component)
+* Using Redux and understanding its basic structure
+  - Redux used to implement state based storage 
+  - Moving state out of components
+  - Reducers, configureStore, Action Creators, Action Types
+* Understanding how to fetch data from database(REST API Server) using Fetch API
+* Implementing React Animations
+
+  
+_All in all, this course gave me a good introduction to starting React.js and the different concepts related to it, especially the concept of having a application state as well as the syntax combing HTML and JS. Although I cannot say I fullly understand and grasp the entirety of what has been taught here, I tried my best to reinforce concepts taught by reading the additional documentations such as those of Redux.js. I am optimistic this course can provide me with a foundation to build up upon._
+
 ## Credits
 
 README template edited from [https://github.com/amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify)
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> The original rpository for my progress thorughout the course can be found [here](https://github.com/thejayden/react-web-dev) &nbsp;&middot;&nbsp;
