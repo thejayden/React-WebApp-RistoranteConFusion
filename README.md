@@ -6,9 +6,9 @@
 <h4 align="center">React Web App built from the course <a href="https://www.coursera.org/learn/front-end-react" target="_blank">"Front-end Web Development with React"</a>.</h4>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/React-JS-61dafb?style=plastic&logo=react">
-    <img src="https://img.shields.io/badge/Redux-JS-764abc?style=plastic&logo=redux">
-    <img src="https://img.shields.io/badge/HTML-ES6-e34f26?style=plastic&logo=HTML5">
+    <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&labelColor=grey">
+    <img src="https://img.shields.io/badge/-Redux-764abc?style=plastic&logo=redux&labelColor=grey">
+    <img src="https://img.shields.io/badge/-HTML-e34f26?style=plastic&logo=HTML5&labelColor=grey">
 </p>
 
 <p align="center">
