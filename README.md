@@ -22,7 +22,6 @@
 ## Features
 
 * Single page application view using react router
-  - Instantly see what your Markdown documents look like in HTML as you create them.
 * Feedback form input validation 
 * Fake live server using JSON-Server with API fetching
 * Commenting and viewing live comments
