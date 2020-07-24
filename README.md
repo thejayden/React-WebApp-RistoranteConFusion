@@ -44,7 +44,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/thejayden/ristorante-con-fusion-react-web-app
+$ git clone https://github.com/thejayden/react-app-ristorante-con-fusion
 
 #install json-server
 $ npm install json-server -g
